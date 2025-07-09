@@ -1,0 +1,2 @@
+# Enhanced-Fake-Profile-Detection-Using-DL-and-Clustering-Techniques
+This project detects fake Instagram accounts using machine learning, data scraping, and clustering techniques. Features like follower-following ratio, engagement, and profile activity are analyzed using K-Means and classifiers like SVM, RF, and ANN. The system helps identify suspicious accounts, enhancing online safety and reducing misinformation.
